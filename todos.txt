@@ -1,6 +1,7 @@
 read
-write
-run
-What
-More
 Master Python
+Meet Tom
+new to this
+new todo2
+Master
+
