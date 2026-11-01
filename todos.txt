@@ -1,7 +1,6 @@
 read
 Master Python
 Meet Tom
-new to this
-new todo2
-Master
-
+Do something
+write a letter
+sing a song
